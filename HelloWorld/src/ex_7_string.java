@@ -28,5 +28,9 @@ public class ex_7_string {
         System.out.println(name.startsWith("Am")); // -> Returns boolean value
         System.out.println(name.endsWith("a")); // -> Returns boolean value
         System.out.println(name.indexOf('t'));
+        System.out.println(name.charAt(1));
+        System.out.println(name.indexOf('t', 1)); // -> Start searching from index 1 and returns -1 if not found
+        System.out.println(name.equals("Amit"));
+        System.out.println(name.equalsIgnoreCase("amit"));
     }
 }
