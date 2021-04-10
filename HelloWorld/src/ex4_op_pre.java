@@ -1,10 +1,10 @@
 
-//      Operator precedence in Java
-// Precedence and Associativity
-// Precedence is the level of the operator to be evaluated
-// Associativity is the position of the operators to be evaluated if they have same precedence level
-//associativity basically starts from left to right.
-
+/*           Precedence and Associativity
+   Operator precedence in Java
+   Precedence is the level of the operator to be evaluated
+   Associativity is the position of the operators to be evaluated if they have same precedence level
+    associativity basically starts from left to right.
+*/
 
 public class ex4_op_pre {
     public static void main(String[] args) {
